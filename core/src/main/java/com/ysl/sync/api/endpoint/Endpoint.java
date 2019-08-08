@@ -1,4 +1,4 @@
-package com.ysl.redis.sync.api.endpoint;
+package com.ysl.sync.api.endpoint;
 
 import java.net.InetSocketAddress;
 

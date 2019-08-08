@@ -1,6 +1,6 @@
-package com.ysl.redis.sync.endpoint;
+package com.ysl.sync.endpoint;
 
-import com.ysl.redis.sync.api.endpoint.Endpoint;
+import com.ysl.sync.api.endpoint.Endpoint;
 
 import java.net.InetSocketAddress;
 import java.net.URI;
